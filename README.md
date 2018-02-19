@@ -14,6 +14,6 @@
 
 ## Diagram:
 
-![Diagram](https://github.com/hhaddock/AlarmClockUseCaseDiagram/blob/master/diagram.png "Logo Title Text 1")
+![Diagram](https://github.com/hhaddock/AlarmClockUseCaseDiagram/blob/master/diagram.png "Alarm Clock Use Case Diagram")
 
 
